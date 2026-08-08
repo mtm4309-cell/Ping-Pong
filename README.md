@@ -1,6 +1,6 @@
 ## PING PONG [April 2024 - May 2024] ##
 
- ## --Introduction-- ##
+ ## Introduction ##
 This is a **Retro-Style 2D Ping Pong Game built from scratch using the Pygame Module in Python.** 
 It features an **automated opponent**, **various sound effects**, a **custom UI menu**, and **retro pixel typography**.
 
