@@ -31,7 +31,7 @@ def ball_animation():
         ball_speed_x *= -1
         ball_speed_x + 4
         ball_speed_y + 4 
-
+        (ball_speed_y) *= random.choice((1,-1))
 
 def ball_start():
     global ball_speed_x, ball_speed_y 
