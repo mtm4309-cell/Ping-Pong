@@ -13,3 +13,32 @@ It features an **automated opponent**, **various sound effects**, a **custom UI 
 --> **First-to-5:** The game is played up until either the opponent or the player gets 5 points, at which the game ends.  
 --> **Retro Aesthetics:** The game features pixel backgrounds and arcade-style topography     
 *[Note: Many of the backgrounds and fonts were downloaded online]*  
+
+
+## How to Download & Play
+
+### Prerequisites
+Make sure you have **Python 3.x** installed on your system. You can download it from [python.org](https://www.python.org/).
+
+### Step-by-Step Instructions
+
+1. **Download the Game:**
+   - Click the green **Code** button at the top right of this repository page.
+   - Select **Download ZIP**.
+   - Extract the downloaded `.zip` file to a folder on your computer.
+
+2. **Install Required Packages:**
+   - Open your Terminal / Command Prompt inside the extracted folder.
+   - Run the following command to install PyGame:
+     ```bash
+     pip install pygame
+     ```
+
+3. **Launch the Game:**
+   - In the same terminal window, run:
+     ```bash
+     python main.py
+     ```
+     *(If your main script uses a different name, replace `main.py` with your file name, e.g., `dodge_meteor.py`)*
+
+---
