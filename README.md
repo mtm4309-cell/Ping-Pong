@@ -43,6 +43,6 @@ Make sure you have **Python 3.x** installed on your system. You can download it 
      ```bash
      python main.py
      ```
-     *(If your main script uses a different name, replace `main.py` with your file name, e.g., `dodge_meteor.py`)*
+     *(If your main script uses a different name, replace `main.py` with your file name, e.g., `ping_pong.py`)*
 
 ---
